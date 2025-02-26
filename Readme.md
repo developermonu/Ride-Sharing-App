@@ -50,10 +50,10 @@ The system includes:
 
 ## Architecture
 The software architecture is documented using the **C4 Model**, including the following diagrams:
-- **Context Diagram**: Overview of the system and its interactions with the user and external components.
-- **Container Diagram**: High-level components such as FastAPI services and external systems.
-- **Component Diagram**: Breakdown of each container into its components and their interactions.
-- **Code Diagram**: Detailed design of the code structure within each component.
+- [ ] **Context Diagram**: Overview of the system and its interactions with the user and external components.
+- [ ] **Container Diagram**: High-level components such as FastAPI services and external systems.
+- [ ] **Component Diagram**: Breakdown of each container into its components and their interactions.
+- [ ] **Code Diagram**: Detailed design of the code structure within each component.
 
 ## API Development
 The system's RESTful APIs are developed using FastAPI, with endpoints for user and rider registration, ride booking, fare calculation, and ride status updates.
