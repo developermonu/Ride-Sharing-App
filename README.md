@@ -46,7 +46,7 @@ A microservices-based ride sharing platform built with FastAPI and PostgreSQL. T
 
 ![Output Screenshot](screenshots/Screenshot%202025-04-30%20at%2013-33-59%20FastAPI%20-%20Swagger%20UI.png)
 
-> The above screenshot shows the auto-generated API documentation for the Ride Sharing App, including endpoints for users, riders, rides, and admin, as well as the data schemas.
+> The above screenshot shows the API documentation for the Ride Sharing App, including endpoints for users, riders, rides, and admin, as well as the data schemas.
 
 ---
 
