@@ -84,8 +84,6 @@ Desktop.ini
 *.log
 docker-compose.override.yml
 
-# Screenshots
-screenshots/
 
 # Ignore test cache
 *.pytest_cache/
